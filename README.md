@@ -3,12 +3,6 @@
 
 I created a simple modal page with the help of html, css and javascript. This project is and example of how we can simpy make view modal part for any website.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
